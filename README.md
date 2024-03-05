@@ -1,6 +1,6 @@
 # Disciplina: Programção para dispositivos movéis
 
-### Aluno: Ncolas Castro Do Nascimento
+### Aluno: Gerdson Costa Fonseca
 ### Curso: Técnico Integrado em Informática.
 ### Turma: P5
 ### Etapa: N1
